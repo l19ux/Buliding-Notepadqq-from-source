@@ -2,7 +2,7 @@
 This has some tweaks, which notepadqq offical repository doesn't have and since the 2.0.0 build version is trash when installed directly or from Snap.
 
 
-``1. git clone --recursive https://github.com/notepadqq/notepadqq.git``
+``1. git clone --recursive https://github.com/notepadqq/notepadqq.git``[\n]
 ``2. cd notepadqq``
 
 The README is a bit out of date regarding dependencies. try this instead:
