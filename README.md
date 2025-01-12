@@ -10,5 +10,7 @@ This has some tweaks, which notepadqq offical repository doesn't have and since 
 The README is a bit out of date regarding dependencies. try this instead:
 sudo apt-get install qtbase5-dev qtchooser qt5-qmake qttools5-dev-tools qtwebengine5-dev libqt5websockets5-dev libqt5svg5 libqt5svg5-dev libuchardet-dev pkg-config
 
-``3. ./configure --prefix /usr`` ---
+``3. ./configure --prefix /usr`` 
+
+***
 ``4. sudo make install``
