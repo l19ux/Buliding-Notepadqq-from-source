@@ -4,7 +4,6 @@ This has some tweaks, which notepadqq offical repository doesn't have and since 
 
 ``1. git clone --recursive https://github.com/notepadqq/notepadqq.git``
 
----
 ``2. cd notepadqq``
 
 The README is a bit out of date regarding dependencies. try this instead:
@@ -13,5 +12,6 @@ The README is a bit out of date regarding dependencies. try this instead:
 
 ``4. ./configure --prefix /usr`` 
 
-***
 ``5. sudo make install``
+
+Congratulations, you have nailed it!
